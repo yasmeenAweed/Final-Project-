@@ -24,11 +24,11 @@ We formulated the problem of stock trading decision as a classification problem 
 buy and sell. We aim to identify the most efficient classifier based on some metrics.
 
 ## Goals: 
-1. Data collection, cleaning and visulazation - Abdulla and Lama
+1. Data collection, cleaning and visulazation (Yahoo finance) - Abdulla and Lama
 
-2. Feature selection - Yasmeen and Duaa
+2. Feature generation and selection by using technical indicators (ROC, MOM, RSI) - Yasmeen and Duaa
 
-3. Splitting and Modeling - Bashayer and Khadija
+3. Splitting and Modeling (KNN , RF , CART) - Bashayer and Khadija
  
 4. Presntation - All members
 
