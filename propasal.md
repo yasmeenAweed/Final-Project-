@@ -27,7 +27,7 @@ The algo trading is help to increase speed, accuracy, and reduced costs. also, t
 ## Goals: 
 1. Data collection, cleaning and visulazation (Yahoo finance) - Abdulla and Lama
 
-2. Feature generation and selection by using technical indicators (ROC, MOM, RSI) - Yasmeen and Duaa
+2. Feature generation and selection by using technical indicators (ROC, MOM, MA) - Yasmeen and Duaa
 
 3. Splitting and Modeling (KNN , RF , CART) - Bashayer and Khadija
  
