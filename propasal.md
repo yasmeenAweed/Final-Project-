@@ -15,7 +15,8 @@ BAYDLK Crypto
 ### - Bashayer
 
 
-## Project: Algorithmic Trading by ML
+## Project:
+Algorithmic Trading by ML
 
 ## What is your project? 
 Predicting stock movements by using ML and Algorithmic Trading.
