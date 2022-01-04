@@ -1,4 +1,4 @@
-# Example Proposal
+# Project Proposal
 
 # Group Number: 1
 
